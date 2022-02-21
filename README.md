@@ -1,4 +1,4 @@
-# PECATI
+# test
 
 A [workflowr][] project.
 
